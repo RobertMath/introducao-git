@@ -12,3 +12,7 @@ git push origin main
 *agora estamos na branch nova
 
 git checkout -b dev
+
+git merge dev
+
+*agora main e dev se mesclaram
